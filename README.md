@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/BYevh/sftest.svg?branch=master)](https://travis-ci.com/BYevh/sftest)
-
 **Salesforce trainee test project**
 
 *Overview* \
